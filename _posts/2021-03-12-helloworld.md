@@ -8,6 +8,8 @@ date:   2016-10-16
 
 tag:     jekyll 
 
+![](a7db28f9cf1c2c4a1a7b6f1f31095b97873497d7.jpg)
+
 ---
 
 package com.atguigu.java;
