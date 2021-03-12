@@ -11,7 +11,7 @@ tag:     jekyll
 ---
 
 
-![图片pic1]({{ "/images/111111.jpg" | absolute_url }})
+![图片pic1]({{ "/images/111111.png" | absolute_url }})
 
 package com.atguigu.java;
 /*
