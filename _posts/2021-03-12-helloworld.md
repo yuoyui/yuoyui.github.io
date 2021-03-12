@@ -4,9 +4,9 @@ layout: post
 
 title:  "Welcome to Jekyll!" 
 
-date:   2016-10-16 11:29:08 +0800 
+date:   2016-10-16 
 
-categories: jekyll update 
+tag:     jekyll 
 
 ---
 
